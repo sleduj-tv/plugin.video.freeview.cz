@@ -68,17 +68,17 @@ plugin://plugin.video.freeview.sk/?provider=ct&channel=ctdart
 #EXTINF:0 tvg-id="344805248" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctart.png" tvg-name="ČT art",ČT art
 #plugin://plugin.video.freeview.sk/?provider=ct&channel=ctart
 #EXTINF:0 tvg-id="344805056" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nova.png" tvg-name="Nova",Nova
-#plugin://plugin.video.freeview.sk/?provider=nova&channel=nova
+plugin://plugin.video.freeview.sk/?provider=nova&channel=nova
 #EXTINF:0 tvg-id="344805504" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novafun.png" tvg-name="Nova Fun",Nova Fun
-#plugin://plugin.video.freeview.sk/?provider=nova&channel=novafun
+plugin://plugin.video.freeview.sk/?provider=nova&channel=novafun
 #EXTINF:0 tvg-id="344805312" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novacinema.png" tvg-name="Nova Cinema",Nova Cinema
 plugin://plugin.video.freeview.sk/?provider=nova&channel=novacinema
 #EXTINF:0 tvg-id="344805376" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novaaction.png" tvg-name="Nova Action",Nova Action
-#plugin://plugin.video.freeview.sk/?provider=nova&channel=novaaction
+plugin://plugin.video.freeview.sk/?provider=nova&channel=novaaction
 #EXTINF:0 tvg-id="344962176" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novalady.png" tvg-name="Nova Lady",Nova Lady
 plugin://plugin.video.freeview.sk/?provider=nova&channel=novalady
 #EXTINF:0 tvg-id="344805440" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novagold.png" tvg-name="Nova Gold",Nova Gold
-#plugin://plugin.video.freeview.sk/?provider=nova&channel=novagold
+plugin://plugin.video.freeview.sk/?provider=nova&channel=novagold
 #EXTINF:0 tvg-id="344808000" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novasport1.png" tvg-name="Nova Sport 1",Nova Sport 1
 plugin://plugin.video.freeview.sk/?provider=nova&channel=novasport1
 #EXTINF:0 tvg-id="344816320" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novasport2.png" tvg-name="Nova Sport 2",Nova Sport 2
