@@ -17,3 +17,5 @@ Znamená to, že ho môžte teoreticky skopírovať a rozšíriť o streamy, kto
 V menu si môžete vybrat extrakciu playlistu, alebo automatické nastavenie PVR IPTV Simple Client na playlist priamo v plugine.
 
 Plugin vie aj generovať epg zo Skylink služby, zapnutie a vypnutie je v nastaveniach, v menu je tiež možné nastavenie PVR IPTV Simple Client-a.
+
+Používať doplnok môže aj Slovák, no nemusia mu fungovať všetky stanice.
