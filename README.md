@@ -1,14 +1,12 @@
-# plugin.video.freeview.sk
+# plugin.video.freeview.cz
 
-Ak chcete aktualizácie, inštalujte si doplnok z môjho repozitáru - https://github.com/cache-sk/kodirepo
+![plugin.video.freeview.cz](icon.jpg)
 
-![plugin.video.freeview.sk](icon.jpg)
+## Kodi plugin pre Živé vysielanie českých TV
 
-## Kodi plugin pre Živé vysielanie slovenských TV
+Plugin slúži na získanie streamov voľne dostupných vysielaní televízií v ČR.
 
-Plugin slúži na získanie streamov voľne dostupných vysielaní televízií na Slovensku.
-
-Všetko sú to stanice, ktoré sa dajú pozerať na Slovensku zdarma priamo cez prehliadač, prípadne NEmajú priamo na streame zapnutú geoblokáciu a teda fungujú aj zo Slovenska, každopádne sú to všetko oficiálne retransmisie.
+Všetko sú to stanice, ktoré sa dajú pozerať na Slovensku zdarma priamo cez prehliadač, prípadne NEmajú priamo na streame zapnutú geoblokáciu a teda fungujú aj z ČR, každopádne sú to všetko oficiálne retransmisie.
 
 K prehrávaniu je potrebný nainštalovaný a povolený InputStream Adaptive a nastavený PVR IPTV Simple Client.
 
@@ -19,5 +17,3 @@ Znamená to, že ho môžte teoreticky skopírovať a rozšíriť o streamy, kto
 V menu si môžete vybrat extrakciu playlistu, alebo automatické nastavenie PVR IPTV Simple Client na playlist priamo v plugine.
 
 Plugin vie aj generovať epg zo Skylink služby, zapnutie a vypnutie je v nastaveniach, v menu je tiež možné nastavenie PVR IPTV Simple Client-a.
-
-V nastaveniach sú rôzne možnosti, napríklad v prípade, že Markíza nefunguje, skúste si zaregistorvať vlastné konto a zmeniť ho tam.
