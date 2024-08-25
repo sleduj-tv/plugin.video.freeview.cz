@@ -15,7 +15,7 @@
         <summary lang="en_GB">Playlist a sada resolverov</summary>
         <description lang="en_GB">Všetky tu získavané streamy sú verejne k dispozícii a využívajú ich primárne oficiálne stránky či aplikácie konkrétnych televízií. Upozorňujem, že toto je len kópia doplnku freeview.sk od cache-sk</description>
         <license>AGPL</license>
-        <forum>not yet</forum>
+        <forum>https://freeviewczsk.freeforums.net</forum>
         <source>https://github.com/sleduj-tv/plugin.video.freeview.cz</source>
         <assets>
             <icon>icon.jpg</icon>
