@@ -95,6 +95,8 @@ plugin://plugin.video.freeview.cz/?provider=slager&channel=slagr
 plugin://plugin.video.freeview.cz/?provider=slager&channel=slagr2
 #EXTINF:0 tvg-id="344927296" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/premium.png" tvg-name="Premium",Premium
 plugin://plugin.video.freeview.cz/?provider=slager&channel=slagrpremium
+#EXTINF:0 tvg-id="2458772224" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/senzi.png" tvg-name="Senzi",Senzi
+plugin://plugin.video.freeview.cz/?provider=senzi&channel=senzi
 #EXTINF:0 tvg-id="343938944" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/retro.png" tvg-name="Retro Music",Retro Music
 #plugin://plugin.video.freeview.cz/?provider=retro&channel=retro
 #EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/ltv.png" tvg-name="Lounge TV",Lounge TV
