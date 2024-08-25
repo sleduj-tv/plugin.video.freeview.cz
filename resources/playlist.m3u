@@ -87,6 +87,8 @@ plugin://plugin.video.freeview.cz/?provider=joj&channel=jojko
 plugin://plugin.video.freeview.cz/?provider=joj&channel=joj24
 #EXTINF:0 tvg-id="2458900224" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/jojsvet.png" tvg-name="JOJ Svet",JOJ Svet
 plugin://plugin.video.freeview.cz/?provider=test&channel=jojsvet
+#EXTINF:0 tvg-id="2457865600" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/ta3.png" tvg-name="TA3",TA3
+plugin://plugin.video.freeview.cz/?provider=ta3&channel=ta3
 #EXTINF:0 tvg-id="343998016" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/ocko.png" tvg-name="Óčko",Óčko
 plugin://plugin.video.freeview.cz/?provider=ocko&channel=ocko
 #EXTINF:0 tvg-id="344906688" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/ockoexpress.png" tvg-name="Óčko Expres",Óčko Expres
