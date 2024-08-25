@@ -15,6 +15,7 @@ except ImportError:
 CHANNELS = {
     'pcsk':{'mpd':'https://dash2.antik.sk/stream/nvidia_prima_cool/playlist_cbcs.mpd','hls':'http://88.212.15.47/live/test_prima_cool_hd_hevc_50/playlist.m3u8'},
     'jojsvet':{'mpd':'https://dash2.antik.sk/stream/hisi_joj_svet/playlist_cbcs.mpd','hls':'http://88.212.15.47/live/test_joj_svet/playlist.m3u8'},
+    'cai':{'mpd':'https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd','hls':'http://88.212.15.47/live/test_cai_hevc/playlist.m3u8'},
 }
 
 HEADERS={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'}
