@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.freeview.cz" version="0.0.4" name="freeview.cz" provider-name="sleduj-tv">
+<addon id="plugin.video.freeview.cz" version="0.0.5" name="freeview.cz" provider-name="sleduj-tv">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="script.module.beautifulsoup4"/>
@@ -21,6 +21,8 @@
             <icon>icon.jpg</icon>
         </assets>
         <news>
+[B]0.0.5[/B]
+- paramount network prekvapivo po rokoch opat cez skript funguje
 [B]0.0.4[/B]
 - markiza klasik prekvapivo v cz ide
 [B]0.0.3[/B]
