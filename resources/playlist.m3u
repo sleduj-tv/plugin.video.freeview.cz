@@ -31,6 +31,8 @@ plugin://plugin.video.freeview.cz/?provider=nova&channel=novagold
 plugin://plugin.video.freeview.cz/?provider=prima&channel=prima
 #EXTINF:0 tvg-id="344812416" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/primacool.png" tvg-name="Prima Cool",Prima Cool
 plugin://plugin.video.freeview.cz/?provider=prima&channel=cool
+#EXTINF:0 tvg-id="344723200" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/primacomedy.png" tvg-name="Paramount Network",Paramount Network
+plugin://plugin.video.freeview.cz/?provider=test&channel=prima_comedy_central
 #EXTINF:0 tvg-id="344723136" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/primamax.png" tvg-name="Prima Max",Prima Max
 plugin://plugin.video.freeview.cz/?provider=prima&channel=max
 #EXTINF:0 tvg-id="344854784" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/primakrimi.png" tvg-name="Prima Krimi",Prima Krimi
