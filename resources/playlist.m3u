@@ -49,6 +49,10 @@ plugin://plugin.video.freeview.cz/?provider=prima&channel=show
 plugin://plugin.video.freeview.cz/?provider=test&channel=pcsk
 #EXTINF:0 tvg-id="344913920" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/cnnprimanews.png" tvg-name="CNN Prima News",CNN Prima News
 plugin://plugin.video.freeview.cz/?provider=prima&channel=cnn
+#EXTINF:0 tvg-id="344805888" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/barrandovkrimi.png" tvg-name="Barrandov Krimi",Barrandov Krimi
+plugin://plugin.video.freeview.cz/?provider=simple&channel=barrandovkrimi
+#EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/ok.png" tvg-name="OK",OK
+plugin://plugin.video.freeview.cz/?provider=simple&channel=ok
 #EXTINF:0 tvg-id="344823488" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/family.png" tvg-name="JOJ Family",JOJ Family
 plugin://plugin.video.freeview.cz/?provider=joj&channel=family
 #EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/warnertv.png" tvg-name="Warner TV",Warner TV
@@ -59,10 +63,14 @@ plugin://plugin.video.freeview.cz/?provider=warner&channel=cartoon
 plugin://plugin.video.freeview.cz/?provider=warner&channel=boomerang
 #EXTINF:0 tvg-id="344969920" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/cai.png" tvg-name="Crime & Investigation",Crime & Investigation
 plugin://plugin.video.freeview.cz/?provider=test&channel=cai
+#EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/sporty.png" tvg-name="Sporty",Sporty
+plugin://plugin.video.freeview.cz/?provider=simple&channel=sporty
 #EXTINF:0 tvg-id="344808000" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/novasport1.png" tvg-name="Nova Sport 1",Nova Sport 1
 plugin://plugin.video.freeview.cz/?provider=nova&channel=novasport1
 #EXTINF:0 tvg-id="344816320" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/novasport2.png" tvg-name="Nova Sport 2",Nova Sport 2
 plugin://plugin.video.freeview.cz/?provider=nova&channel=novasport2
+#EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/esp4k.png" tvg-name="Eurosport 4k",Eurosport 4k
+plugin://plugin.video.freeview.cz/?provider=warner&channel=esp4k
 #EXTINF:0 tvg-id="344806784" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/jojcinema.png" tvg-name="JOJ Cinema",JOJ Cinema
 plugin://plugin.video.freeview.cz/?provider=joj&channel=jojcinema
 #EXTINF:0 tvg-id="344806848" tvg-logo="special://home/addons/plugin.video.freeview.cz/resources/logos/csfilm.png" tvg-name="CS Film",CS Film
