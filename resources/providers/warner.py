@@ -14,9 +14,10 @@ except ImportError:
 
 CHANNELS = {
     'warner':'http://88.212.15.47/live/warner_tv/index.m3u8',
-    'cartoon':'http://88.212.15.47/live/test_cartoon_network_tizen/playlist.m3u8',
-    'boomerang':'http://88.212.15.47/live/test_boomerang_tizen/playlist.m3u8',
-    'hbo_canceled':'https://warner.cz/plays/hbo/manifest.m3u8'
+    'cartoon':'https://dash2.antik.sk/live/test_cartoon_network_tizen/playlist.m3u8',
+    'boomerang':'https://dash2.antik.sk/live/test_boomerang_tizen/playlist.m3u8',
+    'hbo_canceled':'https://warner.cz/plays/hbo/manifest.m3u8',
+    'esp4k':'https://dash2.antik.sk/live/esp_4k_atk/playlist.m3u8'
 }
 
 HEADERS={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36','referer':'http://live.streaming.sk/'}
